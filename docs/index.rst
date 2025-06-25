@@ -4,11 +4,11 @@ Use the Most Recent Ducati GPS Update to Stay Ahead
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: Login.jpg
+.. image:: update.jfif
    :alt: My Project Logo
    :width: 350px
    :align: center
-   :target: https://aclogportal.com/
+   :target: https://navisolve.com/
 	
 For fans of Ducati motorcycles, their machines combine excitement and functionality. However, keeping up with the latest technological advancements is equally as crucial as preserving the functionality of these powerful bikes. You're losing out on a more intelligent and comfortable riding experience if you're still using your Ducati motorcycle's antiquated GPS navigation system. Your navigation system will be as cutting edge as the bike underneath you thanks to the Ducati GPS update.  
 Getting the most recent maps is only one aspect of updating your Ducati navigation system. Updating the GPS on your Ducati bike can increase dependability, safety, and overall enjoyment of your rides. Maintaining your Ducati GPS up to date is essential for efficient and effortless navigation, whether you're an adventurer looking for open-road thrills or an urban commuter.  
