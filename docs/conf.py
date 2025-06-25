@@ -1,4 +1,4 @@
-project = 'Ducati'
+project = 'Ducati GPS Update'
 author = 'Your Name'
 release = '1.0'
  
